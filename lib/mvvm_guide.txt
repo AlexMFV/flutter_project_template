@@ -1,0 +1,8 @@
+Pages wire UI to ViewModels.
+Widgets stay reusable and logic free.
+ViewModels own state and UI rules.
+Models stay pure data.
+Utils hold pure shared functions.
+Services handle state, IO, and platform access.
+Extensions improve readability without hiding logic.
+Constants replace random globals.
