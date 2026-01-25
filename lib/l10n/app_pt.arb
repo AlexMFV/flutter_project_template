@@ -1,0 +1,7 @@
+{
+    "@@locale": "pt",
+    "sampleError": "Esta é uma mensagem de erro de exemplo.",
+    "sampleWarning": "Esta é uma mensagem de aviso de exemplo.",
+    "sampleInfo": "Esta é uma mensagem informativa de exemplo.",
+    "sampleSuccess": "A operação foi concluída com sucesso."
+}

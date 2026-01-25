@@ -1,0 +1,3 @@
+To install FVM in the project to be able to use another flutter version than the default one, run:
+
+fvm use <flutterVersion> --force

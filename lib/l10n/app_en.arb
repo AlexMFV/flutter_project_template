@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    "sampleError": "This is a sample error message.",
+    "sampleWarning": "This is a sample warning message.",
+    "sampleInfo": "This is a sample informational message.",
+    "sampleSuccess": "The operation was completed successfully."
+}
