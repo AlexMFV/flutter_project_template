@@ -4,15 +4,15 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.7.0 #Necessary for Riverpod code generation
-  flutter: ">=3.0.0"
+  sdk: "3.7.0" #Necessary for Riverpod code generation
+  flutter: "3.29.1" #Necessary for Riverpod code generation
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_localizations: 
     sdk: flutter
-  intl: 0.19.0
+  intl: 0.20.2
   flutter_riverpod: ^3.1.0
   riverpod_annotation: ^4.0.0
 
@@ -22,6 +22,9 @@ dev_dependencies:
   flutter_lints: ^5.0.0
   build_runner:
   riverpod_generator: ^4.0.0
+
+dependency_overrides:
+  intl: 0.20.2
 
 flutter:
   generate: true
